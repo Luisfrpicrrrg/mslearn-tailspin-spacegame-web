@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/TailSpin05222/Template%20Run/_apis/build/status/Luisfrpicrrrg.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/TailSpin05222/Template%20Run/_build/latest?definitionId=2&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
